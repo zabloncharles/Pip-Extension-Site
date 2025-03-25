@@ -1,6 +1,6 @@
 # PipMaster Landing Page
 
-A modern landing page for PipMaster - The next generation Python package manager.
+A modern landing page for PipMaster - The Next Video Extension landing page.
 
 ## Local Development
 
