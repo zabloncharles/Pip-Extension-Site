@@ -137,4 +137,15 @@ const statsObserver = new IntersectionObserver((entries) => {
     });
 }, { threshold: 0.5 });
 
-stats.forEach(stat => statsObserver.observe(stat)); 
+stats.forEach(stat => statsObserver.observe(stat));
+
+// Download handling
+document.addEventListener('DOMContentLoaded', function() {
+    const downloadBtn = document.querySelector('.download-btn');
+    if (downloadBtn) {
+        downloadBtn.addEventListener('click', function() {
+            // Log the download attempt
+            console.log('Download initiated');
+        });
+    }
+}); 

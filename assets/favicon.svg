@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+    <!-- TV Stand -->
+    <path d="M156 400 L356 400 L336 460 L176 460 Z" fill="#2ecc71"/>
+    
+    <!-- TV Body -->
+    <rect x="76" y="100" width="360" height="280" rx="20" fill="#2ecc71"/>
+    
+    <!-- TV Screen -->
+    <rect x="96" y="120" width="320" height="240" rx="10" fill="#ffffff"/>
+    
+    <!-- Play Symbol -->
+    <path d="M226 200 L226 280 L306 240 Z" fill="#2ecc71"/>
+</svg> 

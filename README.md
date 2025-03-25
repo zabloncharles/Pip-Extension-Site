@@ -1,6 +1,8 @@
-# PipMaster Landing Page
+# Pipify Landing Page
 
-A modern landing page for PipMaster - The Next Video Extension landing page.
+A modern landing page for Pipify - The Ultimate Picture-in-Picture Video Extension.
+
+![Pipify Landing Page](./assets/image1.svg)
 
 ## Local Development
 
@@ -40,6 +42,7 @@ The site will be available at `http://localhost:3000`
 ├── index.html          # Main HTML file
 ├── styles.css          # CSS styles
 ├── script.js           # JavaScript functionality
+├── assets/            # Images and icons
 ├── package.json        # Project configuration
 └── README.md          # This file
 ```

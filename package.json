@@ -1,11 +1,16 @@
 {
-  "name": "pipmaster-landing",
+  "name": "pipify-landing",
   "version": "1.0.0",
-  "description": "Landing page for PipMaster - A Python package manager",
+  "description": "Landing page for Pipify - The Ultimate Picture-in-Picture Video Extension",
+  "main": "index.html",
   "scripts": {
     "dev": "live-server --port=3000 --no-browser"
   },
-  "devDependencies": {
+  "dependencies": {
     "live-server": "^1.2.2"
+  },
+  "devDependencies": {
+    "canvas": "^3.1.0",
+    "jimp": "^1.6.0"
   }
-} 
+}
