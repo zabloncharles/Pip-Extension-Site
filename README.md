@@ -4,7 +4,7 @@ A modern landing page for Pipify - The Ultimate Picture-in-Picture Video Extensi
 
 ![Pipify Landing Page](./assets/landingpreview.png)
 
-![Pipify Landing Page Alternative View](./assets/landingimage2.png)
+![Pipify Landing Page Alternative View](./assets/landingpreview2.png)
 
 ## Local Development
 
