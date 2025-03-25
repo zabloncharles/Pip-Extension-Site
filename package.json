@@ -1,0 +1,11 @@
+{
+  "name": "pipmaster-landing",
+  "version": "1.0.0",
+  "description": "Landing page for PipMaster - A Python package manager",
+  "scripts": {
+    "dev": "live-server --port=3000 --no-browser"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+} 
