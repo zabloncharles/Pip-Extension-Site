@@ -2,7 +2,7 @@
 
 A modern landing page for Pipify - The Ultimate Picture-in-Picture Video Extension.
 
-![Pipify Landing Page](./assets/image1.svg)
+![Pipify Landing Page](./assets/landingpreview.svg)
 
 ## Local Development
 
